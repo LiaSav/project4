@@ -1,0 +1,16 @@
+@media only screen and (min-width: 992px) {
+}
+@media only screen and (min-width: 768px) {
+}
+@media only screen and (max-width: 576px) {
+  .first {
+    padding-bottom: 2.0625rem;
+  }
+  .container-fluid_first h2 {
+    font-size: 3rem;
+    line-height: 3.5rem;
+  }
+  .container-fluid_third .row {
+    overflow: scroll;
+  }
+}
